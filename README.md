@@ -11,7 +11,20 @@
 
 ***bold italic***
 
+* folder
+  * item1
+  * item2
+  * item3
 
+1. vegs
+    1. brinjal
+    2. potato
+    3. tomato
+
+s.no|name|age
+----|----|---
+1|Ramesh|20
+2|Suresh|20
 
 [instagram](https://www.instagram.com/)
 
